@@ -1,7 +1,65 @@
-h1{
+.jorina{  
 
-background-color: aqua;
-writing-mode: horizontal-tb;
+ color:brown;
 
+}
+.ggg{
+
+  color:blue;
+
+}
+.jorina{
+
+
+    color:brown
+}
+img {
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    width: 200px;
+  }
+  .Oatmeal{
+
+color:royalblue;
+background-color: aquamarine;
+height: 450px;
+width: 600px;
+border: 10px double red
+
+
+  }
+  .oat{
+
+ font-size: 18px;
+
+
+  }
+  .special{
+
+color: red;
+
+
+
+  }
+.test{
+
+height: 200px;
+width: 200px;
+background-color: blueviolet;
+margin-top: 50px ;
+margin-left: 50px;
+padding: 40px;
+
+
+}
+.blog{
+
+border: 2px solid red;
+margin: 10px;
+padding: 10px;
+border-radius: 20px;
+width: 30%;
+float: left;
 
 }
